@@ -1,0 +1,28 @@
+{
+    "result": [
+        {
+            "currency": "USD",
+            "symbolName": "Apple",
+            "symbol": "AAPL",
+            "price": 36.32
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Amazon",
+            "symbol": "AMZN",
+            "price": 86.32
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Netflix",
+            "symbol": "NFLX",
+            "price": 123.32
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Facebook",
+            "symbol": "Meta",
+            "price": 56.32
+        }
+    ]
+}
